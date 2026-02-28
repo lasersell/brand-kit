@@ -6,10 +6,10 @@ Official brand assets for LaserSell. Use these when referencing or integrating w
 
 | File | Description |
 |------|-------------|
-| `lasersell.svg` | Icon (SVG) |
-| `lasersell.png` | Icon (PNG) |
-| `lasersell-full-light.png` | Full logo for dark backgrounds |
-| `lasersell-full-dark.png` | Full logo for light backgrounds |
+| `icon/lasersell.svg` | Icon (SVG) |
+| `icon/lasersell.png` | Icon (PNG, 512x512) |
+| `logo/lasersell-full-light.png` | Full logo for dark backgrounds |
+| `logo/lasersell-full-dark.png` | Full logo for light backgrounds |
 
 ## Download
 
