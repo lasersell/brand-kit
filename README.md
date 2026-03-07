@@ -8,8 +8,8 @@ Official brand assets for LaserSell. Use these when referencing or integrating w
 |------|-------------|
 | `icon/lasersell.svg` | Icon (SVG) |
 | `icon/lasersell.png` | Icon (PNG, 512x512) |
-| `logo/lasersell-full-light.png` | Full logo for dark backgrounds |
-| `logo/lasersell-full-dark.png` | Full logo for light backgrounds |
+| `logo/lasersell-logo-light.png` | Logo for dark backgrounds |
+| `logo/lasersell-logo-dark.png` | Logo for light backgrounds |
 
 ## Download
 
